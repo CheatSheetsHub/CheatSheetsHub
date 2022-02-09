@@ -1,7 +1,7 @@
-<img width="80%" align="center" src="" alt="portfolio template mockup" /> <br/>
+<img width="80%" align="center" src="./Capture.PNG" alt="portfolio template mockup" /> <br/>
 <img height="350px" align="right" src="./dmo.gif" alt="website mobile demo gif"/>
 
-<img align="left" src="" height="50" alt="react icon"/>
+<img align="left" src="./trans.png" height="50" alt="icon"/>
 <h2>CheatSheet-Hub</h2>
 
 <pre>
@@ -9,6 +9,7 @@ An Open source Cheat Sheets Collection.
 </pre>
 
 <strong>:crown: What We Cover??</strong>
+
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
