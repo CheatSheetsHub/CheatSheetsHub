@@ -1,5 +1,5 @@
 <img width="80%" align="center" src="" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="" alt="portfolio mobile demo gif"/>
+<img height="350px" align="right" src="./dmo.gif" alt="website mobile demo gif"/>
 
 <img align="left" src="" height="50" alt="react icon"/>
 <h2>CheatSheet-Hub</h2>
